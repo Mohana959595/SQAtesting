@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>main</Branch>
+    <ServerUrl>https://github.com/Mohana959595/SQAtesting</ServerUrl>
+    <RepositoryFolder>D:\hsdx\Gitrepo\dotnetproject</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\hsdx\Gitrepo\dotnetproject</RepositoryDirectoryInfo>
+    <AuthorEmail>mdass@rsicms.com</AuthorEmail>
+    <AuthorName>Mohana Priya Dass</AuthorName>
+    <UserName>mdass@rsicms.com</UserName>
+    <Password>9iLQsfjhONCi5cmwdeuRaw==</Password>
+    <SupplyUserCredentials>true</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
