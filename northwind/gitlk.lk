@@ -1,1 +1,32 @@
-{}
+{
+  "\\northwind.dxp": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  },
+  "\\Northwind.dxc": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  },
+  "\\projectdata\\glossary.xml": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  },
+  "\\projectdata\\tasks.xml": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  },
+  "\\projectdata\\tableofcontents.xml": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  },
+  "\\topicdata\\aa5a5420-02ba-4917-a805-b07282838f67.xml": {
+    "O": "MOHANA-LT01",
+    "D": "2024-07-26T09:34:15.211583Z",
+    "B": "main"
+  }
+}
