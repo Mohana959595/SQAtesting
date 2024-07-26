@@ -5,8 +5,8 @@
   <ProviderProperties>
     <Branch>main</Branch>
     <ServerUrl>https://github.com/Mohana959595/SQAtesting</ServerUrl>
-    <RepositoryFolder>D:\hsdx\Gitrepo\dotnetproject</RepositoryFolder>
-    <RepositoryDirectoryInfo>D:\hsdx\Gitrepo\dotnetproject</RepositoryDirectoryInfo>
+    <RepositoryFolder>D:\GitRepositoryTest\git</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\GitRepositoryTest\git</RepositoryDirectoryInfo>
     <AuthorEmail>mdass@rsicms.com</AuthorEmail>
     <AuthorName>Mohana Priya Dass</AuthorName>
     <UserName>mdass@rsicms.com</UserName>

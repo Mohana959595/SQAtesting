@@ -44,7 +44,7 @@
       <OtherFile Id="2997a4e9-68fd-4e14-ae4e-a7dd6e7b2b18" FileName="stylesheets\customstyles.css" SourceData="" BuildFlags="" />
       <OtherFile Id="2e7f19c2-93bb-4cb5-8e66-935b0056f2c9" FileName="images\RSS Feed.png" SourceData="" BuildFlags="" />
     </OtherFiles>
-    <DefaultStylesheet>stylesheets\customstyles.css</DefaultStylesheet>
+    <DefaultStylesheet>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\stylesheets\customstyles.css</DefaultStylesheet>
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
@@ -82,7 +82,6 @@
     <TopicEditorState>
       <Attributes>
         <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
-        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
@@ -524,7 +523,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rss.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rss.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -997,7 +996,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rss.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rss.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1906,7 +1905,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rssreader.classic.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rssreader.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2378,7 +2377,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rssreader.classic.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rssreader.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -3287,7 +3286,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rssreader.material.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rssreader.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -3760,7 +3759,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>rssreader.material.chm</HelpFileName>
+        <HelpFileName>C:\ProgramData\Innovasys\DocumentX\samples\dx.net\assembly\rssreader.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
